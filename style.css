@@ -1,1 +1,25 @@
-
+body {
+    background: #000;
+    color: #fff;
+    padding: 25px;
+    font-family: Arial;
+  }
+header h1{
+  color:aqua;
+  text-align: center;
+}
+header h3{
+  color:aquamarine;
+  text-align: center;
+}
+footer ul{
+  color:blue;
+}
+header img {
+  max-width: 100%;
+  height: auto;
+}
+.navbar{
+  text-align: center;
+  padding: 20px;
+}
